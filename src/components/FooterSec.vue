@@ -17,7 +17,11 @@
         margin: 1rem;
         text-align: center;
     }
-
+    
+    p {
+        color:#b6b6b6;
+    }
+    
     a {
         font-weight: bold;
         text-decoration: none;
